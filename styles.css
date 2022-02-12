@@ -1,0 +1,52 @@
+title{
+
+  padding:5px;
+  margin: 5px;  
+  
+}
+img {
+  width: 300px;
+  height: 160px;
+  }
+.container{
+  width:300px;
+  border:1px solid black;
+  padding:5px;
+  margin: 5px;
+  display: flex;
+  flex-wrap: wrap;
+  position: static;
+}
+.box {
+ width: 300px;
+  border:1px solid black;
+}
+.text
+{
+  padding:5px;
+  margin:5px;
+  }
+#facts{
+ font-style: italic ;
+ }
+span
+{
+ font-family: sans-serif;
+  background-color:white;
+  font-weight: bold;
+}
+ul{
+  width: 290px;
+  height: 100px;
+  padding:1px;
+  margin: 1px;
+  text-align: left;
+}
+
+li
+{
+  list-style: none;
+  width: 290px;
+  height: 20px;
+}
+
